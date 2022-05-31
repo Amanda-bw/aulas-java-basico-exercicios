@@ -12,7 +12,7 @@ public class Exercicio11Numeros {
         double num3 = scan.nextDouble();
 
         System.out.println("O produto do dobro do primeiro com metade do segundo");
-        System.out.println((num1 * 2) + (num2/2));
+        System.out.println((num1 * 2) * (num2/2));
 
         System.out.println("a soma do triplo do primeiro com o terceiro");
         System.out.println((num1 * 3) + num3);
